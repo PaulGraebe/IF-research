@@ -6,13 +6,16 @@ Dieses Repository enthält die Excel-Vorlage für das Ausgabedashboard eines Cop
 
 Die Datei `Vorlage_Dashboard.xlsx` dient als feste Ausgabevorlage. Der Copilot-Agent soll die Struktur der Vorlage beibehalten und ausschließlich die vorgesehenen Ergebnisbereiche mit den ermittelten Findings befüllen.
 
+## Excel-Vorlage
+
+./Vorlage_Dashboard.xlsx
+
 ## Enthaltene Dateien
 
 - ./Vorlage_Dashboard.xlsx: Excel-Vorlage für das Ausgabedashboard
 - ./dashboard_structure.md: Beschreibung der Tabellenblätter und Felder
 - ./dashboard_template_instructions.md: Regeln zur Verwendung der Excel-Vorlage
 - ./agent_instructions.md: Anweisungen für den Copilot-Agenten
-
 
 ## Grundregel
 
