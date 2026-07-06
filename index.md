@@ -4,9 +4,12 @@ Diese Seite stellt die Excel-Vorlage für das Ausgabedashboard des Copilot-Agent
 
 ## Excel-Vorlage
 
+
+## Excel-Vorlage
+
 Die folgende Datei ist die verbindliche Ausgabevorlage:
 
-./Vorlage_Dashboard.xlsx
+./Vorlage_Dashboard.xlsxExcel-Vorlage öffnen</a>
 
 ## Verwendungsregel
 
