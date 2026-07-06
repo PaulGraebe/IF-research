@@ -8,11 +8,11 @@ Die Datei `Vorlage_Dashboard.xlsx` dient als feste Ausgabevorlage. Der Copilot-A
 
 ## Excel-Vorlage
 
-./Vorlage_Dashboard.xlsx
+https://paulgraebe.github.io/IF-research/Vorlage_Dashboard.xlsx
 
 ## Enthaltene Dateien
 
-- ./Vorlage_Dashboard.xlsx: Excel-Vorlage für das Ausgabedashboard
+- https://paulgraebe.github.io/IF-research/Vorlage_Dashboard.xlsx: Excel-Vorlage für das Ausgabedashboard
 - ./dashboard_structure.md: Beschreibung der Tabellenblätter und Felder
 - ./dashboard_template_instructions.md: Regeln zur Verwendung der Excel-Vorlage
 - ./agent_instructions.md: Anweisungen für den Copilot-Agenten
