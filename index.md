@@ -6,7 +6,7 @@ Diese Seite stellt die Excel-Vorlage für das Ausgabedashboard des Copilot-Agent
 
 Die folgende Datei ist die verbindliche Ausgabevorlage:
 
-https://paulgraebe.github.io/IF-research/Vorlage_Dashboard.xlsx
+[Excel-Vorlage öffnen](https://paulgraebe.github.io/IF-research/)
 
 ## Verwendungsregel
 
