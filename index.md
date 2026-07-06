@@ -6,11 +6,11 @@ Diese Seite stellt die Excel-Vorlage für das Ausgabedashboard des Copilot-Agent
 
 Die folgende Datei ist die verbindliche Ausgabevorlage:
 
-Vorlage%20Dashboard.xlsx
+Vorlage_Dashboard.xlsx
 
 ## Verwendungsregel
 
-Der Copilot-Agent soll die Datei `Vorlage Dashboard.xlsx` als feste Ausgabevorlage verwenden.
+Der Copilot-Agent soll die Datei `Vorlage_Dashboard.xlsx` als feste Ausgabevorlage verwenden.
 
 Im ersten Tabellenblatt `Dashboard` dürfen ausschließlich die Zeilen ab Zeile 3 mit den ermittelten Findings überschrieben werden. Es dürfen nur so viele Zeilen beschrieben werden, wie eingestufte Anomalien vorhanden sind.
 
