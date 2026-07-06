@@ -2,11 +2,12 @@
 
 Diese Seite stellt die Excel-Vorlage für das Ausgabedashboard des Copilot-Agenten zur Anomalieerkennung mit dem Isolation-Forest-Verfahren bereit.
 
+
 ## Excel-Vorlage
 
 Die folgende Datei ist die verbindliche Ausgabevorlage:
 
-[Excel-Vorlage öffnen](https://paulgraebe.github.io/IF-research/)
+https://paulgraebe.github.io/IF-research/Vorlage_Dashboard.xlsx
 
 ## Verwendungsregel
 
